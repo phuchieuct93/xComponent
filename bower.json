@@ -1,0 +1,17 @@
+{
+  "name": "xComponent",
+  "version": "0.0.0",
+  "homepage": "https://github.com/phuchieuct93/xComponent",
+  "authors": [
+    "phuchieuct <phuchieuct93@gmail.com>"
+  ],
+  "main": "abc",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
