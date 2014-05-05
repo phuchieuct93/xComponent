@@ -5,7 +5,7 @@
   "authors": [
     "phuchieuct <phuchieuct93@gmail.com>"
   ],
-  "main": "abc",
+  "main": "./i18n.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
